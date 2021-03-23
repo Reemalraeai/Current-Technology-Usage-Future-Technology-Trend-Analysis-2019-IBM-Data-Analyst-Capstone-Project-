@@ -2,9 +2,13 @@
 
 
 •	This project is a part of IBM Data Analyst Professional Certificate.
+
 •	In this project, I analysed data from an online survey 2019 of software professionals across the world conducted by Stack Overflow to get insights into current technology usage & future technology trend.
+
 •	I used SQL & Python to perform data wrangling & exploratory data analysis (EDA) via Jupyter Notebook. 
+
 •	The python libraries I used are NumPy, Panadas, & Matplotlib.
+
 •	Finally, for data visualization I used IBM Cognos Dashboard Embedded, and Microsoft PowerPoint for data presentation. For this project, I performed the data analysis via IBM Cloud & IBM Watson
 
 
